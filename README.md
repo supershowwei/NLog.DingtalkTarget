@@ -1,6 +1,6 @@
 # NLog.DingtalkTarget
 
-This is NLog target for Dingtalk. Check following configuration:
+This is NLog target for Dingtalk, check following configuration:
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
